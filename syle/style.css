@@ -1,0 +1,19 @@
+.fondo{
+    background-color: rgb(197, 200, 200);
+}
+.tamañoletra{
+   font-size: 1.2em; 
+}
+.estilotec{
+    width: 150px;
+    height: 150px;
+}
+.tamanotec{
+    width: calc(100vw - 60vw);
+}
+p{
+    margin-bottom: 0;
+}
+.parrafo-footer{
+    font-size: 0.9em;
+}
